@@ -1,3 +1,7 @@
+---
+skill: generate-script
+description: Create interview scripts with leading question detection
+---
 
 # Generate Script
 

@@ -1,3 +1,7 @@
+---
+skill: create-screener
+description: Generate participant recruitment screeners
+---
 
 # Create Screener
 

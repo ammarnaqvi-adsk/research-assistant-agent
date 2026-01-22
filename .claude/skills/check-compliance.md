@@ -1,3 +1,7 @@
+---
+skill: check-compliance
+description: Validate CRA, recording consent, and privacy requirements
+---
 
 # Check Compliance
 

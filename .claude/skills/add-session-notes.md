@@ -1,3 +1,7 @@
+---
+skill: add-session-notes
+description: Add and organize session transcripts with proper anonymization
+---
 
 # Add Session Notes
 

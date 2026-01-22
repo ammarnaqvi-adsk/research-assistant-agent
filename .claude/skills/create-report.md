@@ -1,3 +1,7 @@
+---
+skill: create-report
+description: Generate stakeholder-friendly research reports
+---
 
 # Create Report
 

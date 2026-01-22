@@ -1,3 +1,7 @@
+---
+skill: summarize-findings
+description: Synthesize findings from transcripts without hallucination
+---
 
 # Summarize Findings
 
