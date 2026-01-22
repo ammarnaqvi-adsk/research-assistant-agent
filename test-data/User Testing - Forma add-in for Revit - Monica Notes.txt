@@ -1,5 +1,5 @@
 Usability Testing: Forma Add-in for Revit (Participant 2)
-Moderator: @Tamira McCoy  Notetaker: @Nicholas Ragonese  Date: April 10, 2024
+Moderator: @Tamira McCoy Notetaker: @Nicholas Ragonese Date: April 10, 2024
 Participant: Monica Pereira Da Silva
 Tasks
 Notes 
@@ -7,10 +7,10 @@ Notes
 Task I
 Imagine you are looking to use the Forma add-in for Revit. You just started a project in Forma called ‘Emile Anthoine Stadium - Paris, France’ with several proposals in Forma. You have been given permission by your administrator or firm to download the add-in directly from Forma. How would you do so? 
 Follow-up questions
-	•	From a scale from 1 – 5 (1 being very easy and 5 being extremely difficult) how was that process of downloading the add-in? 
-	•	Now that you’ve downloaded the add-in, can you please open Revit. How would you go about loading Proposal A from the Forma project ‘Emile Anthoine Stadium - Paris, France’? 
-	•	Now that the proposal is loaded, can you describe what you see?  
-	•	How would you go about changing the project?  
+	•	From a scale from 1 – 5 (1 being very easy and 5 being extremely difficult) how was that process of downloading the add-in?
+	•	Now that you’ve downloaded the add-in, can you please open Revit. How would you go about loading Proposal A from the Forma project ‘Emile Anthoine Stadium - Paris, France’?
+	•	Now that the proposal is loaded, can you describe what you see? 
+	•	How would you go about changing the project? 
 	•	How would you go about changing the proposal from Proposal A to Proposal C?
 
 
@@ -26,10 +26,10 @@ For changing project, Monica was slightly confused about the terminology because
 Once it was more clear it was about changing Forma project, she was able to find the proposal dropdown easily. (I am unsure how Monica would have navigated to change Forma project rather than proposal)
 
 Task II 
-Imagine you’ve just went back into Forma and added new geometry and vegetation to Proposal A. How would you bring those new changes into Revit?   (If they are struggling, ask them how they would imagine it working. Then provide guidance on what the expectation was.)
+Imagine you’ve just went back into Forma and added new geometry and vegetation to Proposal A. How would you bring those new changes into Revit? (If they are struggling, ask them how they would imagine it working. Then provide guidance on what the expectation was.)
 Follow-up questions
-	•	Was this the behavior you expected when clicking the ‘refresh’ icon?  
-	•	How would you go about removing Forma elements if you didn’t want to see it on your canvas?  
+	•	Was this the behavior you expected when clicking the ‘refresh’ icon? 
+	•	How would you go about removing Forma elements if you didn’t want to see it on your canvas? 
 	•	Thinking out loud, now that the Forma proposal preview is loaded. What actions would you take next?
 
 
@@ -48,8 +48,8 @@ The question of what the different Forma element types are was confusing for Mon
 Task III 
 Let's imagine that you’re ready to start adding details to the building geometry you’ve imported from Forma. You are looking to convert the Forma layer called Buildings into 'Walls, roofs and floors’. How would you go about doing that? 
 Follow-up questions
-	•	What would you do next? 
-	•	Let’s imagine, you’ve made edits to the converted buildings in Revit and you would like to send it back to your Forma proposal for analysis. How would you do so?  
+	•	What would you do next?
+	•	Let’s imagine, you’ve made edits to the converted buildings in Revit and you would like to send it back to your Forma proposal for analysis. How would you do so? 
 
 
 When refreshing load proposal after new elements were added in Forma, there was no confusion about which elements in the preview were new vs already imported into Revit.
