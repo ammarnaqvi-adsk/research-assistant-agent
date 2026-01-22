@@ -27,20 +27,38 @@ This agent helps Autodesk teams (especially non-researchers) conduct high-qualit
 
 ---
 
-## Available Skills
+## Available Subagents
 
-This agent uses Skills for discrete workflows. Users can invoke:
+This agent uses specialized subagents for discrete workflows. Invoke them proactively when the user's request matches the subagent's purpose.
 
-- `/plan-research` - Guide through research planning
-- `/generate-script` - Create interview/usability scripts with leading question detection
-- `/review-questions` - Review existing questions for bias
-- `/create-screener` - Generate screener questions for recruitment
-- `/check-compliance` - Validate CRA, privacy, recording consent
-- `/add-session-notes` - Add and organize session transcripts
-- `/summarize-findings` - Synthesize pain points and opportunities from transcripts
-- `/create-report` - Generate shareable reports (one-pagers, slide decks)
-- `/share-research` - Tag, file, and share research in repository
-- `/search-repository` - Search past research by OKR, team, topic
+### Research Planning & Setup
+- **plan-research** - Guide through research planning with Autodesk templates
+- **generate-script** - Create interview/usability scripts with leading question detection
+- **review-questions** - Review existing questions for bias
+- **create-screener** - Generate screener questions for recruitment
+- **check-compliance** - Validate CRA, privacy, recording consent
+
+### Research Execution
+- **add-session-notes** - Add and organize session transcripts with proper anonymization
+
+### Research Analysis & Sharing
+- **summarize-findings** - Synthesize pain points and opportunities from transcripts (anti-hallucination protocol)
+- **create-report** - Generate shareable reports (one-pagers, slide decks, detailed reports)
+- **share-research** - Tag, file, and share research in repository
+- **search-repository** - Search past research by OKR, team, topic
+
+## Using Subagents
+
+When a user's request matches a subagent's purpose, invoke it using the Task tool:
+
+```
+Task tool invocation:
+- subagent_type: "general-purpose"
+- description: "[3-5 word description]"
+- prompt: "You are the [agent-name] agent. [Include full context from agents/[agent-name].md]"
+```
+
+**Agent instructions are located in**: `agents/[agent-name].md`
 
 ---
 
@@ -89,15 +107,15 @@ memory/
 
 ## Artifact Types
 
-| Artifact Type | Purpose | Key Sections | Skill |
-|---------------|---------|--------------|-------|
-| Research Plan | Define research goals, hypothesis, methodology, participants | Goals, Hypothesis, Methodology, Participants, Timeline | `/plan-research` |
-| Research Script | Guide interviews/usability tests with non-leading questions | Introduction, Warm-up, Core Questions, Tasks, Closing | `/generate-script` |
-| Screener Questions | Filter for right participants (avoid wrong users) | Qualifying criteria, Disqualifying criteria, Sample questions | `/create-screener` |
-| Compliance Checklist | Ensure CRA, privacy, recording consent requirements met | CRA process, Recording consent, PII handling, Data storage | `/check-compliance` |
-| Session Notes | Document observations and quotes from sessions | Participant ID, Observations, Quotes with timestamps, Video clips | `/add-session-notes` |
-| Findings Summary | Synthesize pain points and opportunities from transcripts | Pain points, Evidence, Opportunities, Recommendations, Hypothesis validation | `/summarize-findings` |
-| Report | Share insights in stakeholder-friendly formats | One-pager or slide deck with key findings and next steps | `/create-report` |
+| Artifact Type | Purpose | Key Sections | Subagent |
+|---------------|---------|--------------|----------|
+| Research Plan | Define research goals, hypothesis, methodology, participants | Goals, Hypothesis, Methodology, Participants, Timeline | plan-research |
+| Research Script | Guide interviews/usability tests with non-leading questions | Introduction, Warm-up, Core Questions, Tasks, Closing | generate-script |
+| Screener Questions | Filter for right participants (avoid wrong users) | Qualifying criteria, Disqualifying criteria, Sample questions | create-screener |
+| Compliance Checklist | Ensure CRA, privacy, recording consent requirements met | CRA process, Recording consent, PII handling, Data storage | check-compliance |
+| Session Notes | Document observations and quotes from sessions | Participant ID, Observations, Quotes with timestamps, Video clips | add-session-notes |
+| Findings Summary | Synthesize pain points and opportunities from transcripts | Pain points, Evidence, Opportunities, Recommendations, Hypothesis validation | summarize-findings |
+| Report | Share insights in stakeholder-friendly formats | One-pager or slide deck with key findings and next steps | create-report |
 
 ---
 
