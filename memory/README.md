@@ -31,7 +31,7 @@ memory/
 
 | Project Name | Status | Methodology | Last Updated | OKRs | Teams | Topics |
 |-------------|---------|-------------|--------------|------|-------|--------|
-| _No studies yet_ | - | - | - | - | - | - |
+| **Forma Onboarding Feedback** | ✅ Complete | Exploratory Interview | Dec 16, 2025 | Forma adoption, Revit interoperability | Forma Product, Site Design, Revit Platform | onboarding, navigation-shortcuts, revit-interoperability, street-parking, master-planning |
 
 _Studies will appear here as you conduct research_
 
@@ -39,27 +39,36 @@ _Studies will appear here as you conduct research_
 
 ### By OKR
 Find research supporting specific business objectives:
-- _No OKR tags yet_
+- **Forma adoption**: Forma Onboarding Feedback (Dec 2025)
+- **Revit interoperability**: Forma Onboarding Feedback (Dec 2025)
 
 ### By Team
 Find research relevant to specific teams:
-- _No team tags yet_
+- **Forma Product Team**: Forma Onboarding Feedback (Dec 2025) - navigation shortcuts
+- **Forma Site Design Team**: Forma Onboarding Feedback (Dec 2025) - street parking, cycle lanes
+- **Revit Platform Team**: Forma Onboarding Feedback (Dec 2025) - interoperability gaps
 
 ### By Topic
 Find research about specific product areas or user types:
-- _No topic tags yet_
+- **onboarding**: Forma Onboarding Feedback (Dec 2025)
+- **navigation-shortcuts**: Forma Onboarding Feedback (Dec 2025) - #1 pain point
+- **revit-interoperability**: Forma Onboarding Feedback (Dec 2025)
+- **street-parking**: Forma Onboarding Feedback (Dec 2025)
+- **cycle-lanes**: Forma Onboarding Feedback (Dec 2025)
+- **master-planning**: Forma Onboarding Feedback (Dec 2025)
+- **site-design**: Forma Onboarding Feedback (Dec 2025)
 
 ### By Date
 Browse research chronologically:
-- _No dated research yet_
+- **December 2025**: Forma Onboarding Feedback (1 participant, exploratory)
 
 ## Repository Statistics
 
-- **Total Studies**: 0
-- **Completed**: 0
+- **Total Studies**: 1
+- **Completed**: 1
 - **In Progress**: 0
-- **Total Participants**: 0
-- **Total Findings**: 0
+- **Total Participants**: 1 (P01)
+- **Total Findings**: 5 pain points, 3 positive findings
 
 ## Best Practices
 
