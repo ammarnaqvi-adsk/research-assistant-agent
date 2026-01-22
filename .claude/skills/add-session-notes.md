@@ -1,7 +1,3 @@
----
-skill: add-session-notes
-description: Add and organize session transcripts/notes
----
 
 # Add Session Notes
 

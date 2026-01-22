@@ -1,7 +1,3 @@
----
-skill: generate-script
-description: Create interview/usability scripts and detect leading questions
----
 
 # Generate Script
 

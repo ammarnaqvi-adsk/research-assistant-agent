@@ -1,7 +1,3 @@
----
-skill: create-screener
-description: Generate screener questions for participant recruitment
----
 
 # Create Screener
 

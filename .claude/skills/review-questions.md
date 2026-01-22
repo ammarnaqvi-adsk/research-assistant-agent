@@ -1,7 +1,3 @@
----
-skill: review-questions
-description: Review existing questions for leading/biased language
----
 
 # Review Questions
 

@@ -1,7 +1,3 @@
----
-skill: summarize-findings
-description: Synthesize pain points and opportunities from transcripts with anti-hallucination protocol
----
 
 # Summarize Findings
 

@@ -1,7 +1,3 @@
----
-skill: share-research
-description: Tag, file, and share research in repository
----
 
 # Share Research
 

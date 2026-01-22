@@ -1,7 +1,3 @@
----
-skill: search-repository
-description: Search past research by OKR, team, topic, or keyword
----
 
 # Search Repository
 

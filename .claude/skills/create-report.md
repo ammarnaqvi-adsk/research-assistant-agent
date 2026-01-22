@@ -1,7 +1,3 @@
----
-skill: create-report
-description: Generate shareable reports (one-pagers, slide decks)
----
 
 # Create Report
 

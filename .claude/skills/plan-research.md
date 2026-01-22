@@ -1,7 +1,3 @@
----
-skill: plan-research
-description: Guide user through research planning with Autodesk templates
----
 
 # Plan Research
 
