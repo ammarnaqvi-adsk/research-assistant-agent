@@ -1,0 +1,90 @@
+Usability Testing: Forma Add-in for Revit (Participant 3)
+Moderator: @Tamira McCoy  Notetaker: Zhou Fang Date: April 11, 2024
+Participant: Maria Johansson
+Tasks
+Notes 
+(Please include all observations, challenges or quotes that the participants mention during the session)
+Task I
+Imagine you are looking to use the Forma add-in for Revit. You just started a project in Forma called ‘Emile Anthoine Stadium - Paris, France’ with several proposals in Forma. You have been given permission by your administrator or firm to download the add-in directly from Forma. How would you do so? 
+Follow-up questions
+	•	From a scale from 1 – 5 (1 being very easy and 5 being extremely difficult) how was that process of downloading the add-in? 
+	•	Now that you’ve downloaded the add-in, can you please open Revit. How would you go about loading Proposal A from the Forma project ‘Emile Anthoine Stadium - Paris, France’? 
+	•	Now that the proposal is loaded, can you describe what you see?  
+	•	How would you go about changing the project?  
+	•	How would you go about changing the proposal from Proposal A to Proposal C?
+
+
+Note taker, please insert all notes here. Please ensure this belongs to the correct participant.
+ Where to go and download add-in:
+-Go to the dots (besides proposal) to download it
+-Preferably to see a Revit Icon on the navigation bar or the analysis bar.
+-Look for logo for Revit within Forma.
+
+	•	Q1
+	•	Difficulty finding the icon to download, didn’t give an actual score.
+	•	Q2
+	•	Go to add-in and load proposal (instead of going to Massing & Site)
+	•	The presentation seems logical.
+	•	(If there are folders in the hub, it would be logical to see the folder in the hub instead of showing every project in the list as the list can get very long)
+	•	Otherwise, a search bar to search for the name of the project would be helpful.
+	•	Some visual on Forma side beside the proposal imported to Revit would also help remind users not to edit this proposal in Forma anymore.
+	•	Q3
+	•	Before the load, the file is created without being able to select what can be loaded. (During the preview screen)
+	•	Not understanding from the dialog screen to know for sure this is a preview screen.
+	•	Like the idea of the preview. 
+	•	Checking or unchecking boxes should ideally change the preview.
+	•	Great to have the same symbols associated with each icon in Forma.
+	•	Q4
+	•	Wanted to click on the title name and change the project using a drop down menu. (same way as changing the proposal).
+	•	Otherwise, arrow in front of the name  (<) to go back to the selection screen.
+	•	Currently, user may just close the window to try and reload the project.
+	•	Q5
+	•	User selected proposal C as expected in the drop down menu.
+
+^ Skip question if it was unanswered
+Task II 
+Imagine you’ve just went back into Forma and added new geometry and vegetation to Proposal A. How would you bring those new changes into Revit?   (If they are struggling, ask them how they would imagine it working. Then provide guidance on what the expectation was.)
+Follow-up questions
+	•	Was this the behavior you expected when clicking the ‘refresh’ icon?  
+	•	How would you go about removing Forma elements if you didn’t want to see it on your canvas?  
+	•	Thinking out loud, now that the Forma proposal preview is loaded. What actions would you take next?
+
+
+Task notes
+
+User would click on the refresh button that’s currently available in the design to bring in the latest proposal.
+
+	•	Q1
+	•	Not particularly, as the IE would expect you shouldn’t be able to change the Forma proposal after importing to Revit.
+	•	The button can be useful during iterative design process. I.E client asks the main building to split into two smaller buildings.
+	•	Finding the refresh to be a little confusing.
+	•	However, as a user, the expectation is that clicking on Convert to Revit Objects should bring in the latest proposal.
+	•	Q2
+	•	Unchecking the box.
+	•	Perhaps clicking on individual buildings to be able to exclude in the preview would be nice.
+	•	Q3
+	•	If a site has multiple buildings in Forma, Revit should give an option to load an individual building to be loaded in Revit.
+	•	Users might expect changes in the preview to be real-time.
+	•	
+
+Task III 
+Let's imagine that you’re ready to start adding details to the building geometry you’ve imported from Forma. You are looking to convert the Forma layer called Buildings into 'Walls, roofs and floors’. How would you go about doing that? 
+Follow-up questions
+	•	What would you do next? 
+	•	Let’s imagine, you’ve made edits to the converted buildings in Revit and you would like to send it back to your Forma proposal for analysis. How would you do so?  
+
+
+Task notes
+
+User selected the correct drop down.
+-Also, it would be nice to select the Revit families that exist during import process. (for example, external wall should belong to one family and floor would be another family) 
+-Not completely necessary to do so, because user can change it within Revit as well.
+
+	•	Q1
+	•	Q2
+	•	Change the name of “Load proposal” to “Interoperability with Forma”
+	•	“Update Proposal” should be more specific such as “Sync proposals to Forma”
+	•	If there are multiple 3D views, be able to select which 3D view to send to Forma.
+
+Concluding remarks:
+With this flow, this is taking longer to import. (Send to Revit) on proposal would be a little clearer during the import process to the user if the user has many projects to know which project to import.

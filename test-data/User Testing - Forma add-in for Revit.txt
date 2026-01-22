@@ -1,0 +1,72 @@
+Usability Testing: Forma Add-in for Revit
+Moderator: @Tamira McCoy  Notetaker: TBD Date: Week of April 8th, 2024
+Participants: 
+	•	Jesper Staahl
+	•	Monica Pereira Da Silva
+	•	Maria Johansson
+Context
+As we begin the year after the FY25 planning, it was clear that that there is an increased interest in creating better interoperability between Forma and the rest of the AEC design products. The enhancement of the Revit add-in being the focus for Q1 to allow for a seamless workflow in managing Forma elements in Revit and sending Revit objects back into Forma for analysis.
+For architects this unlocks the ability to seamlessly work between Revit and Forma while still maintaining the necessary level of detail required at each step of the architecture process. We are hoping to unlock the following workflows: 
+	•	Allow architects to load Forma projects + proposals from within Revit
+	•	Allow user initiated conversions from Forma elements to Revit elements/families
+	•	Easily previewing Forma proposals in Revit 
+	•	Seamlessly upload Revit elements to Forma proposals for additional analysis 
+For Forma, this will allow us to embed ourselves into legacy workflows and increase the adoption of Forma as part of early-stage design + analysis.
+	•	Enable Forma project and proposal creation from within Revit  
+	•	Building workflows in Revit that unlocks Forma analysis  features
+Study Goals  Determine if the new approach to the Revit add-in designs satisfies the following criteria:
+	•	Users can select, swap and load desired Forma projects & proposals.
+	•	Users understand how previewing works and the implications of converting a Forma layers.
+	•	Users can easily identify the design options for each Forma element and generate desired Revit object conversion from those options.
+	•	Users can identify how to update Forma proposals through the add-in.
+	•	Users can unlink and re-link desire Forma proposals.
+
+
+
+
+
+
+
+
+
+Script
+Hi, my name is Tamira. I am the UX designer on the Connected Clients team. I will be walking you through a Figma prototype that I have put together that showcases the Forma add-in designs for Revit. 
+In today’s conversations, our team is looking to learn if this new workflow satisfies some of desired improvements to the product. We would like to determine if the new features and content we’re providing matches an architect’s mental model when they transition from Forma into Revit (and then back to Forma). 
+The information will help us determine whether we need to modify, add or change any of the designs prior to sending it to development.
+Background questions
+	•	Have you used Revit before?
+	•	If yes, what types of projects did you use it for? 
+	•	From a scale from 1 – 5 (1 being not familiar at all and 5 being extremely familiar), how would you rate your knowledge of Revit? 
+	•	Have you used the Forma add-in for Revit before?  
+	•	If you had a magic wand, what is one thing that you would love to see improved in the existing Forma <> Revit workflow? 
+Task introduction
+In today’s session, I will be giving you several tasks for you to complete. This is not a test of your ability to use the new features. If you have any questions along the way, please ask me. I may or may not answer them until the end of the session because we are interested in how people do when they don’t have assistance. 
+ While you work on these tasks, try to describe what you are doing and what’s going through your mind. This could be things that you like or don't like, areas of the add-in that are confusing, delightful moments such as features or designs that you did enjoy.
+Just want to preface that this is a Figma prototype so things may not work as you expect. Use it as however you’d use it. If something doesn’t work, we will know.
+Before we get started, do you have any questions? Is it alright if we record this session for internal sharing purposes?
+Start the recording... [Send the prototype link and make sure they are sharing their screen (prototype should be set to ‘fit to screen’)] 
+ Task I
+Imagine you are looking to use the Forma add-in for Revit. You just started a project in Forma called ‘Emile Anthoine Stadium - Paris, France’ with several proposals in Forma. You have been given permission by your administrator or firm to download the add-in directly from Forma. How would you do so? 
+Follow-up questions
+	•	From a scale from 1 – 5 (1 being very easy and 5 being extremely difficult) how was that process of downloading the add-in? 
+	•	Now that you’ve downloaded the add-in, can you please open Revit. How would you go about loading Proposal A from the Forma project ‘Emile Anthoine Stadium - Paris, France’? 
+	•	Now that the proposal is loaded, can you describe what you see?  
+	•	How would you go about changing the project?  
+	•	How would you go about changing the proposal from Proposal A to Proposal C?
+
+Task II 
+Imagine you’ve just went back into Forma and added new geometry and vegetation to Proposal A. How would you bring those new changes into Revit? 
+(If they are struggling, ask them how they would imagine it working. Then provide guidance on what the expectation was.)
+Follow-up questions
+	•	If they hit ‘refresh’. Was this the behavior you expected when clicking the ‘refresh’ icon?  
+	•	How would you go about removing Forma elements if you didn’t want to see it on your canvas?  
+	•	Thinking out loud, now that the Forma proposal preview is loaded. What actions would you take next? 
+Task III 
+Let's imagine that you’re ready to start adding details to the building geometry you’ve imported from Forma. You are looking to convert the Forma layer called Buildings into 'Walls, roofs and floors’. How would you go about doing that? 
+Follow-up questions
+	•	What would you do next?
+
+	•	Let’s imagine, you’ve made edits to the converted buildings in Revit and you would like to send it back to your Forma proposal for analysis. How would you do so?
+(For internal users/ IEs) Thank you for your time and feedback. If you think about anything else after this session, please feel free to send a message to either myself or the team on Slack.
+ (For external users) Thank you for the time and feedback. As our appreciation, we will be sending you a gift card of [amount]. Please keep an eye out for an email from us in the next few days.
+Thank you again and have a wonderful day.
