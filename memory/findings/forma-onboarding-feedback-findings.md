@@ -8,15 +8,19 @@
 
 **Sessions Conducted**: 1 participant (P01)
 
+**⚠️ RESEARCH QUALITY REVIEW**: See `forma-onboarding-feedback-QUALITY-REVIEW.md` for critical analysis of methodology, sample size, and confidence levels. This was an exploratory n=1 study - findings should be treated as hypotheses to validate, not proven insights.
+
 ---
 
 ## Executive Summary
 
-1. **Navigation shortcuts inconsistent with Revit** - P01 explicitly identified this as "the hardest thing" about adopting Forma, creating friction for Revit users transitioning between tools.
-2. **Street parking feature missing** - Critical for master planning workflows; P01 has existing Revit family solution that could be adapted.
-3. **Cycle lanes and footpaths cannot be added to roads** - Essential infrastructure for European master planning, currently very manual to implement.
-4. **Google Maps integration highly valued** - Reduces setup time and provides immediate topography and imagery context.
-5. **Analysis features meet user needs** - Carbon, sunlight, and daylight analysis are easy to launch with fast results.
+**⚠️ IMPORTANT**: This is an exploratory n=1 study. Findings represent hypotheses to validate, not proven insights. See Quality Review document for confidence assessment.
+
+1. **Navigation shortcuts inconsistent with Revit** - P01 explicitly identified this as "the hardest thing" about adopting Forma, creating friction for Revit users transitioning between tools. [Confidence: 🟡 Medium - needs validation with 5-8 Revit users]
+2. **Street parking feature missing** - Critical for master planning workflows; P01 has existing Revit family solution that could be adapted. [Confidence: 🟡 Medium - specific to master planning use case]
+3. **Cycle lanes and footpaths cannot be added to roads** - Essential infrastructure for European master planning, currently very manual to implement. [Confidence: 🟡 Medium - may be European/master planning specific]
+4. **Google Maps integration highly valued** - Reduces setup time and provides immediate topography and imagery context. [Confidence: 🟢 High - P01 enthusiastic, likely universal benefit]
+5. **Analysis features meet user needs** - Carbon, sunlight, and daylight analysis are easy to launch with fast results. [Confidence: 🟢 High - P01 successfully used multiple analysis features]
 
 ---
 
@@ -43,6 +47,8 @@
 
 *Pain points are ranked by severity and frequency. Each includes evidence from participant transcripts.*
 
+**⚠️ Confidence Note**: All findings based on n=1 participant. Severity ratings reflect impact on P01. Confidence levels indicate how certain we are these patterns apply to other users. See Quality Review for detailed confidence assessment.
+
 ---
 
 ### Pain Point 1: Navigation shortcuts different from Revit
@@ -58,7 +64,9 @@
 
 **Frequency**: 1/1 participants mentioned this (100%)
 
-**Severity**: 🔴 High
+**Severity**: 🔴 High (P01 explicitly stated "that was the hardest thing")
+
+**Confidence**: 🟡 Medium - Based on single Revit user. Hypothesis: "Revit users struggle with Forma navigation" needs validation with 5-8 Revit users in structured usability test.
 
 **Context**: This pain point occurs immediately upon starting to use Forma and persists throughout the learning period (P01 mentioned adapting "after a week or two"). It affects users who are transitioning from Revit, which is the primary target audience.
 
